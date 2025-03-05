@@ -36,7 +36,7 @@
             <form class="my-form">
                 <div class="form-group">
                     <label for="form-name">Name</label>
-                    <input type="email" class="form-control" id="form-name" placeholder="Name">
+                    <input type="name" class="form-control" id="form-name" placeholder="Name">
                 </div>
                 <div class="form-group">
                     <label for="form-email">Email Address</label>

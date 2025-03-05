@@ -42,7 +42,7 @@
                 </ul>
               </li>
           </ul>
-
+          <a href="order.php">Order</a>
         </nav>
 
         <div class="icons">
