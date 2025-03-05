@@ -364,43 +364,7 @@ width: 60rem;
         transition: 1s;
         }
 
-/* category page */
-.border{
-    height: 10px;
-    width: 100%;
-    background-color: yellow;
-}
-.category{
-    background-color: rgb(247, 245, 165);
-}
-.category .men {
-    height: 300px;
-    width: 300px;
-  border-radius: 50%;
-  margin-left: 60px;
-  cursor: pointer;
-}
-.category .women {
-    height: 300px;
-    width: 300px;
-  border-radius: 50%;
-  margin-left: 60px;
-  cursor: pointer;
-} 
-.category .kid {
-    height: 300px;
-    width: 300px;
-  border-radius: 50%;
-  margin-left: 60px;
-  cursor: pointer;
-} 
-.category .cosmetic {
-    height: 300px;
-    width: 300px;
-  border-radius: 50%;
-  margin-left: 60px;
-  cursor: pointer;
-} 
+
 /* media queries */
 @media (max-width:1000px){
     html{
